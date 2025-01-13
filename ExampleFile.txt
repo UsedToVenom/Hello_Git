@@ -1,2 +1,3 @@
 Hello Git
 Goodbye World!
+Added through Vim on example 2!
