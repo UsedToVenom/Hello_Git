@@ -1,3 +1,4 @@
 Hello Git
 Goodbye World!
 Added through Vim on example 2!
+Hello there! added on a fresh clone from another machine!
